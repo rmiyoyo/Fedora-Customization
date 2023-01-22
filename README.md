@@ -1,2 +1,2 @@
-# Fedora Customization
+# Ubuntu Customization
 Writing bash scripts
